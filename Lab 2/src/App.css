@@ -1,0 +1,34 @@
+.CountryInfo{
+  display: flex; 
+  flex-direction: row;
+}
+
+.paragraf1{
+  margin: 5px;
+  font-weight: bold;
+}
+.paragraf2{
+  margin: 5px;
+}
+
+.box{
+  height: 10px;
+  background-color: blue;
+}
+
+.searchBar{
+  height: 40px;
+  width: 500px;
+  font-size: 20px;
+}
+
+a:link {
+  text-decoration: none;
+  color:black;
+}
+
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+
