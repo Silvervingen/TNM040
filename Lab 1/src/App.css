@@ -1,0 +1,17 @@
+.CountryInfo{
+  display: flex; 
+  flex-direction: row;
+}
+
+.paragraf1{
+  margin: 5px;
+  font-weight: bold;
+}
+.paragraf2{
+  margin: 5px;
+}
+
+.box{
+  height: 10px;
+  background-color: blue;
+}
